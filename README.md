@@ -1,2 +1,2 @@
 # snooker-player
-prg de comptage des points au snooker
+systeme de comptage des points au snooker
